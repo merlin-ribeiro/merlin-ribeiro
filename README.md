@@ -12,7 +12,7 @@
 
 ###
 
-Cursando Engenharia de Computação pelo Instituto Federal de Ciências e Tecnologia da Paraíba - IFPB (4º Período).                      
+Cursando Engenharia de Computação pelo Instituto Federal de Ciências e Tecnologia da Paraíba - IFPB.                      
 Apaixonado por tecnologia e resolução de problemas por meio de códigos 🖥️
 
 ### Me encontre em outras redes:
