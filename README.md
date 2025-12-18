@@ -1,6 +1,5 @@
-## Olá! Eu sou Merlin Ribeiro 🖐️ // Hi there! My name is Merlin Ribeiro 🖐️
+## Olá! Eu sou Merlin Ribeiro // Hi there! My name is Merlin Ribeiro
 
-![Merlin GitHub stats](https://github-readme-stats.vercel.app/api?username=merlin-ribeiro&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merlin-ribeiro&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
