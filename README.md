@@ -15,5 +15,4 @@ Cursando Engenharia de Computação pelo Instituto Federal de Ciências e Tecnol
 Apaixonado por tecnologia e resolução de problemas por meio de códigos 🖥️
 
 ### Me encontre em outras redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/merlin-de-souza-ribeiro-filho-958a6025b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/countrysidegoth_7k/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/merlin-ribeiro-851435407)
